@@ -1,3 +1,13 @@
-Este trabalho é somente para fins de estudos em geral. O dataset foi retirado do repósitório público, através do website https://dados.gov.pt/pt/
+Neste Projeto foi feito o ETL (Extract, Transform, Load) para tratamento dos dados do dataset 'Indice_Demografico_1900_a_2023.csv', essas etapas são fundamentais para garantir qualidade, confiabilidade e utilidade para os dados, garantindo consistncia para análises exploratória, visualizações, modelos preditivos e machine learning. 
 
-Foi feito um Trabalho de ETL no dataset para uma análise exploratória estatística e criação de modelos preditivos
+- O ETL foi feito todo em linguagem de programação Python, através do Visual Studio, Jupter Notebook;
+- Foi Utilizado a biblioteca Pandas e o módulo OS;
+- Foram retirados linhas e colunas duplicadas e desnecessárias;
+- As Colunas foram renomeadas;
+- Os dados inconsistentes foram retirados ou tranformados;
+- Os dados foram organizados em variáveis numéricas;
+- Os dados não numéricos, células vazias, com caracteres especiais, nulas foram transformados em NaN;
+- O dataset é salvo em um novo arquivo 'ETL_Indice_Demografico_1900_a_2023.csv'.
+
+Este trabalho é um portifólio somente para fins de estudos em geral. 
+O dataset foi retirado do repósitório público, através do website https://dados.gov.pt/pt/
