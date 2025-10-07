@@ -1,1 +1,15 @@
-English
+This project used ETL (Extract, Transform, Load) to process data from the 'Indice_Demografico_1900_a_2023.csv' dataset. These steps are 
+essential to ensure data quality, reliability, and usability, ensuring consistency for exploratory analysis, visualizations, predictive 
+models and machine learning.
+
+- The ETL was performed entirely in Python, using Visual Studio and Jupter Notebook;
+- The Pandas library and the OS module were used;
+- Duplicate and unnecessary rows and columns were removed;
+- Columns were renamed;
+- Inconsistent data was removed or transformed;
+- The data was organized into numeric variables;
+- Non-numeric data, empty cells, cells with special characters, and nulls were transformed to NaN;
+- The dataset was saved in a new file, 'ETL_Indice_Demografico_1900_a_2023.csv'. 
+
+This work is a portfolio for general study purposes only. 
+The dataset was retrieved from the public repository at https://dados.gov.pt/pt/
