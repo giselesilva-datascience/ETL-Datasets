@@ -1,5 +1,8 @@
-Neste Projeto foi feito o ETL (Extract, Transform, Load) para tratamento dos dados do dataset 'Indice_Demografico_1900_a_2023.csv', essas etapas são fundamentais para garantir qualidade, confiabilidade e utilidade para os dados, garantindo consistncia para análises exploratória, visualizações, modelos preditivos e machine learning. 
+Neste Projeto foi feito o ETL (Extract, Transform, Load) para tratamento dos dados dos datasets:
+- Indice_Demografico_1900_a_2023.csv
+- Natalidade_1900_a_2023.csv
 
+Essas etapas são fundamentais para garantir qualidade, confiabilidade e utilidade para os dados, garantindo consistncia para análises exploratória, visualizações, modelos preditivos e machine learning. 
 - O ETL foi feito todo em linguagem de programação Python, através do Visual Studio, Jupter Notebook;
 - Foi Utilizado a biblioteca Pandas e o módulo OS;
 - Foram retirados linhas e colunas duplicadas e desnecessárias;
