@@ -10,7 +10,10 @@ Essas etapas são fundamentais para garantir qualidade, confiabilidade e utilida
 - Os dados inconsistentes foram retirados ou tranformados;
 - Os dados foram organizados em variáveis numéricas;
 - Os dados não numéricos, células vazias, com caracteres especiais, nulas foram transformados em NaN;
-- O dataset é salvo em um novo arquivo 'ETL_Indice_Demografico_1900_a_2023.csv'.
+
+O dataset é salvo em um novo arquivo:
+- ETL_Indice_Demografico_1900_a_2023.csv
+- ETL_Natalidade_1900_a_2023.csv
 
 Este trabalho é um portifólio somente para fins de estudos em geral. 
 O dataset foi retirado do repósitório público, através do website https://dados.gov.pt/pt/
